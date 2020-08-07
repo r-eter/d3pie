@@ -1,4 +1,4 @@
-## d3pie
+## d3-pie
 
 ### DEVELOPERS wanted! 
 
